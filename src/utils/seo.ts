@@ -1,7 +1,7 @@
 import { BlogPost } from '../types/blog';
 
 // SEO Configuration
-const SEO_CONFIG = {
+export const SEO_CONFIG = {
   siteName: 'InvestIndia',
   siteUrl: 'https://investindia.com',
   defaultTitle: 'InvestIndia - Your Gateway to Indian Investment Opportunities',
